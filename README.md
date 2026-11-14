@@ -28,8 +28,3 @@ Tecnologia, gaming, bot e web - tutto fatto con passione.
 - **ZetaYT** - Fondatore & Creatore
 - **Andre💯💎** - Tester
 - **Theswaggy2k26** - Tester
-
-## Come pubblicare
-
-Carica tutto su GitHub Pages, repo `zetalabs`.
-Cartelle da includere: `loghi/` e `staff/`
