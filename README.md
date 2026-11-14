@@ -20,7 +20,7 @@ Tecnologia, gaming, bot e web - tutto fatto con passione.
 - Azienda / Progetto: zetalabs.by.zetayt@proton.me
 - Discord: https://discord.gg/YJp2vkaK34
 - Linktree: https://linktr.ee/zetayt_
-- Sito attuale: https://zetaytofficial.github.io/zetalabs
+- Sito attuale: https://ZetaLabs-By-ZetaYT.github.io/zetalabs
 - Sito futuro (in arrivo): https://zetalabs.is-cool.dev
 
 ## Staff
