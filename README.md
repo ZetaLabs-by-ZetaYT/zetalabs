@@ -4,6 +4,7 @@ Ciao! Questo è il sito di ZetaLabs.
 Progetti tech, gaming e community, fatti con passione.
 
 Sito: https://zetaytofficial.github.io/zetalabs
+
 Presto anche su: zetalabs.is-cool.dev
 
 ## Progetti
